@@ -8,3 +8,9 @@ Categorize results into Approved, Declined,CCN
 
 # Disclaimer
 This tool is for educational purposes only. The developers are not responsible for any misuse or damage caused by this program. Users are solely responsible for any actions taken using this software.
+
+## 🔧 Installation 
+```sh
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install git -y
