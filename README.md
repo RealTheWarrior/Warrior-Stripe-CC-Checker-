@@ -12,10 +12,4 @@ pkg install git -y
 pip install requests bs4
 git clone https://github.com/RealTheWarrior/WarriorStripeCCChecker
 cd WarriorStripeCCChecker
-
-## 🚀 Usage
-To run the script:
-
-```sh
-
 python warrior.py
