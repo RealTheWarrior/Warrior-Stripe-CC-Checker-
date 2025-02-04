@@ -9,5 +9,5 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests bs4
-git clone https://github.com/your-username/your-repository.git
+git clone [https
 cd your-repository
