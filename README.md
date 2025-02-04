@@ -1,6 +1,6 @@
 # Warrior Checker
 
-Warrior Checker is a Python script designed for educational purposes to check card information.
+Warrior Checker is a Python script designed for educational purposes to check card.
 
 ## 🔧 Installation
 
