@@ -10,7 +10,7 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 
-# Step 2: Install required libraries
+**Step 2:** Install required libraries
 
 pip install requests bs4
 
