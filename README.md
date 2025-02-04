@@ -10,26 +10,26 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 
-Step 2: Install required libraries
+# Step 2: Install required libraries
 
 pip install requests bs4
 
-Step 3: Clone this script
+# Step 3: Clone this script
 
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 
 🚀 Usage
 
-To run the script:
+# To run the script:
 
 python warrior.py
 
-If any library is missing, install it manually:
+# If any library is missing, install it manually:
 
 pip install -r requirements.txt
 
-📌 Features
+# 📌 Features
 
 ✅ Automatic loading animation
 
@@ -40,6 +40,6 @@ pip install -r requirements.txt
 ✅ Fast and secure
 
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This script is intended for educational purposes only. Do not use it for any illegal or unethical activities.
