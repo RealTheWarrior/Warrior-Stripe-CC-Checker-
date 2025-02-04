@@ -4,7 +4,6 @@ Warrior Checker is a Python script designed for educational purposes to check ca
 
 ## 🔧 Installation
 
-```sh
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
@@ -14,5 +13,4 @@ cd WarriorStripeCCChecker
 
 ## 🚀 Usage
 To run the script:
-```sh
 python warrior.py
