@@ -9,5 +9,5 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests bs4
-git clone [https
+git clone https://github.com/RealTheWarrior/Warrior-Stripe-CC-Checker-
 cd your-repository
